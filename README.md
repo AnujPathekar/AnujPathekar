@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Anuj Pathekar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/namaste-ji-indian-girl-cartoon-bowing-c0obxpysirk3iebw.webp">
+<img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/namaste-ji-indian-girl-cartoon-bowing-c0obxpysirk3iebw.webp">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujpathekar&label=Profile%20views&color=0e75b6&style=flat" alt="anujpathekar" /> </p>
