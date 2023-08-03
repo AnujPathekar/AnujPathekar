@@ -1,3 +1,4 @@
+![Alt Text](https://drive.google.com/file/d/1lk5qMFGO7koD1UFTnPRQ30KLCQBVryx5/view?usp=drive_link)
 <h1 align="center">Hello 👋, I'm Anuj Pathekar</h1>
 <h3 align="center">Aspiring Data Analyst | Python | SQL | Machine Learning</h3>
 <img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/namaste-ji-indian-girl-cartoon-bowing-c0obxpysirk3iebw.webp">
