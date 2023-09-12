@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Anuj Pathekar</h1>
 <h3 align="center">Aspiring Data Analyst | Python | SQL | Machine Learning</h3>
 
-
+![ProfileGit](https://github.com/AnujPathekar/Images/blob/main/gitprofile.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujpathekar&label=Profile%20views&color=0e75b6&style=flat" alt="anujpathekar" /> </p>
 
