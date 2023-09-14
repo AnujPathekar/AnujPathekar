@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Movie Recommendation System**
 
-- 👨‍💻 All of my projects are available at (In Progress) [https://sites.google.com/view/anuj-pathekar-portfolio/portfolio](https://sites.google.com/view/anuj-pathekar-portfolio/portfolio)
+- 👨‍💻 All of my projects are available at (In Progress) [Anuj Portfolio](https://sites.google.com/view/anuj-pathekar-portfolio)
 
 - 📫 How to reach me **anujpathekar@gmail.com**
 
