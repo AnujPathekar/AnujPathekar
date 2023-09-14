@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Anuj Pathekar</h1>
 <h3 align="center"> Data Enthusiast | Python | SQL | Machine Learning</h3>
 
-![ProfileGit](https://github.com/AnujPathekar/Images/blob/main/gitprofile.jpg)
+![ProfileGit](https://github.com/AnujPathekar/Images/blob/main/gitprofile%20copy.jpg)
 
 
 - 🔭 I’m currently working on **Movie Recommendation System**
