@@ -70,12 +70,13 @@
 ---
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anujpathekar&show_icons=true&theme=radical" alt="anujpathekar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anujpathekar&show_icons=true&theme=default&hide_rank=true&hide_border=true&count_private=true&include_all_commits=true" alt="anujpathekar" />
 </p>
 
 ---
 
 <h3 align="left">Top Languages:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujpathekar&layout=compact&theme=radical" alt="anujpathekar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujpathekar&layout=compact&theme=default&hide_border=true" alt="anujpathekar" />
 </p>
+
