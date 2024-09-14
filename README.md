@@ -9,6 +9,10 @@
   Passionate about turning data into actionable insights. I have experience with open-source projects and a diverse skill set in Python, SQL, and machine learning. I enjoy solving real-world problems with data-driven approaches.
 </p>
 
+<p align="center">
+  Currently working as an Open Source Analyst at <strong>Source Code Control</strong>.
+</p>
+
 ---
 
 <h3 align="left">Connect:</h3>
@@ -23,7 +27,6 @@
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
   </a>
 </p>
-
 
 ---
 
@@ -65,6 +68,22 @@
   <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apache-hive&logoColor=black" alt="Hive" />
   </a>
+  <!-- Added Tools -->
+  <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft%20Power%20Automate-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft Power Automate" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins" />
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  </a>
+  <a href="https://azure.microsoft.com/en-us/services/devops/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+  </a>
+  <a href="https://www.opensource.org/licenses" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Open%20Source%20Software%20Licensing-3DA639?style=flat&logo=open-source-initiative&logoColor=white" alt="Open Source Software Licensing" />
+  </a>
 </p>
 
 ---
@@ -79,4 +98,3 @@
 <p align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujpathekar&layout=compact&theme=default&hide_border=true" alt="anujpathekar" />
 </p>
-
