@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  Currently working as an <a href="https://www.linkedin.com/in/anujnishapathekar/" target="_blank">Open Source Analyst @Source Code Control</a>.
+  Currently serving as an <strong><a href="https://www.linkedin.com/in/anujnishapathekar/" target="_blank">Open Source Analyst</a></strong> at <strong>Source Code Control</strong>.
 </p>
+
 
 
 ---
