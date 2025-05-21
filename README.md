@@ -1,57 +1,66 @@
-<h1 align="center">Hi there, I'm Anuj Pathekar</h1>
-<h3 align="center">Data Scientist | Python Developer | SQL Expert | Machine Learning & Generative AI Enthusiast</h3>
+<h1 align="center">Hi, I'm Anuj Pathekar</h1>
+<h3 align="center">Data Scientist · Python Developer · SQL Specialist · Machine Learning & Generative AI Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anujpathekar&label=Profile%20Views&color=brightgreen&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=anujpathekar&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  Application Security Consultant at <strong>Source Code Control</strong>  
-  <br>
-  Passionate about transforming data into actionable insights.
+  Currently working as an <strong>Application Security Consultant</strong> at <strong>Source Code Control</strong><br>
+  I enjoy solving real-world problems using clean code, smart data, and ethical AI.
 </p>
 
 ---
 
-<!-- Image Placeholder Section -->
+<!-- Banner Image Placeholder -->
 <p align="center">
-  <!-- Replace 'your-image.png' with actual image file names -->
   <img src="your-banner-image.png" alt="Banner Image" width="1000" height="250" />
 </p>
 
 ---
 
-### Skills and Expertise
+### Skills & Expertise
 
-**Core Skills**  
-Python | SQL | Data Analysis | Machine Learning | Data Visualization | Open Source License Compliance | Power Automate | DevOps Automation
+**Core Data Science Skills**  
+Python · SQL · Data Analysis · Machine Learning · Model Evaluation · Data Visualization · Statistical Inference · A/B Testing
 
-**Generative AI Skills**  
-Prompt Engineering | Large Language Models (LLMs) | OpenAI API | Fine-tuning | RAG (Retrieval Augmented Generation) | LangChain | Streamlit | Hugging Face Transformers
+**Generative AI & LLMs**  
+Prompt Engineering · OpenAI & Anthropic APIs · LangChain · RAG (Retrieval-Augmented Generation) · LLM Orchestration · Embeddings & Vector Stores (FAISS, Pinecone)  
+Fine-tuning & Instruction Tuning · Transformers (Hugging Face) · Text-to-Image/Code/SQL Generation · Chain-of-Thought Reasoning · Hallucination Mitigation
 
 **Tools & Technologies**  
-Pandas | NumPy | scikit-learn | Seaborn | TensorFlow | Git | GitHub | Jenkins | Azure DevOps | Linux | Microsoft Power Platform | Hive | Cassandra
+Pandas · NumPy · scikit-learn · Seaborn · TensorFlow · PyTorch · Git · GitHub · Azure DevOps · Jenkins · Microsoft Power Platform · Hive · Cassandra · Linux · VS Code
+
+**Cloud & Ops**  
+Azure ML Studio · Streamlit · Docker · REST APIs · GitHub Actions · Power Automate · Open Source License Auditing · CI/CD Integration
 
 ---
 
-### GitHub Stats
+### What I'm Currently Exploring
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujpathekar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
----
-
-### Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujpathekar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+- 🌍 Generative AI frameworks and scalable LLM apps using LangChain and Streamlit  
+- 🛠️ Automating ISO 5230 assessments with Power Automate + SharePoint  
+- 📜 Building awareness around SBOMs and software compliance in the AI era  
+- 🧪 Evaluating the impact of hallucinations in multi-step LLM reasoning chains
 
 ---
 
-### About Me
+### Work Highlights
 
-- Currently working on Open Source Compliance and Security
-- Exploring practical use cases of Generative AI in enterprise environments
-- Building automations using Microsoft Power Platform and Azure DevO
+- Led open source license and compliance assessments across global codebases  
+- Developed a shrinkage prediction model using machine learning techniques  
+- Created automated flows that reduced manual compliance effort by 60%  
+- Collaborated cross-functionally with legal, engineering, and security teams  
+- Contributed to an enterprise-ready maturity assessment framework
+
+---
+
+### Let's Connect
+
+- 📧 anujnishapathekar@gmail.com | anujpathekar@hotmail.com  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/anujnishapathekar/)
+
+---
+
+_Thanks for visiting — let’s build something meaningful together._
+
