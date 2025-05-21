@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Currently serving as an <strong><a href="https://www.linkedin.com/in/anujnishapathekar/" target="_blank">Open Source Analyst</a></strong> at <strong>Source Code Control</strong>.
+  Currently serving as an <strong><a href="https://www.linkedin.com/in/anujnishapathekar/" target="_blank">Application Security Consultant</a></strong> at <strong>Source Code Control</strong>.
 </p>
 
 
