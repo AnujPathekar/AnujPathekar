@@ -15,7 +15,7 @@
 
 <!-- Banner Image Placeholder -->
 <p align="center">
-  <img src="your-banner-image.png" alt="Banner Image" width="1000" height="250" />
+  <img src="https://github.com/AnujPathekar/Images/blob/main/Screenshot%202025-05-21%20224353.png" alt="Banner Image" width="1000" height="250" />
 </p>
 
 ---
