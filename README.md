@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Currently working as an <strong><a href="https://www.linkedin.com/in/anujnishapathekar/" target="_blank">Application Security Consultant</a></strong> at  
+  Currently working as an <strong><a href="https://in.linkedin.com/in/anujnishapathekar" target="_blank">Application Security Consultant</a></strong> at  
   <strong><a href="https://in.linkedin.com/company/source-code-control-limited" target="_blank">Source Code Control</a></strong><br>
   I enjoy solving real-world problems using clean code, smart data, and ethical AI.
 </p>
