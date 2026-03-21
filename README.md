@@ -1,6 +1,10 @@
 <h1 align="center">Anuj Pathekar</h1>
 
 <p align="center">
+  <img src="https://github.com/AnujPathekar/Images/blob/main/Animate_this_image_202508271637.gif" width="160" height="160" />
+</p>
+
+<p align="center">
   <b>Data Scientist · ML Engineer · Generative AI Builder</b><br>
   <i>Building production-ready AI systems that solve real-world problems</i>
 </p>
@@ -15,9 +19,9 @@
 ## ⚡ Snapshot
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-1e293b?style=flat-square&logo=clock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-GEN%20AI%20%7C%20LLM%20%7C%20Agentic%20AI-1e293b?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Current%20Role-Consultant-1e293b?style=flat-square&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-6366f1?style=for-the-badge&logo=clock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-GEN%20AI%20%7C%20LLM%20%7C%20Agentic%20AI-0ea5e9?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current%20Role-Consultant-10b981?style=for-the-badge&logo=briefcase&logoColor=white" />
 </p>
 
 ---
@@ -25,10 +29,10 @@
 ## 📊 KPI Dashboard
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects_Built-6%2B-334155?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation_Impact-60%25-334155?style=flat-square&logo=powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech_Stack-15%2B-334155?style=flat-square&logo=stackshare&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Projects-3%2B-334155?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects_Built-6%2B-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation_Impact-60%25-22c55e?style=for-the-badge&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech_Stack-15%2B-f59e0b?style=for-the-badge&logo=stackshare&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Projects-3%2B-ec4899?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
