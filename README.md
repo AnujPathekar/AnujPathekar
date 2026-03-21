@@ -1,67 +1,129 @@
-<h1 align="center">Hi, I'm Anuj Pathekar</h1>
-<h3 align="center">Data Scientist · Python Developer · SQL Specialist · Machine Learning & Generative AI Explorer</h3>
+<h1 align="center">Anuj Pathekar</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anujpathekar&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <b>Data Scientist · ML Engineer · Generative AI Builder</b><br>
+  <i>Building production-ready AI systems that solve real-world problems</i>
 </p>
 
 <p align="center">
-  Currently working as an <strong><a href="https://in.linkedin.com/in/anujnishapathekar" target="_blank">Application Security Consultant</a></strong> at  
-  <strong><a href="https://in.linkedin.com/company/source-code-control-limited" target="_blank">Source Code Control</a></strong><br>
-  I enjoy solving real-world problems using clean code, smart data, and ethical AI.
-</p>
-
----
-
-<!-- Banner Image Placeholder -->
-<p align="center">
-  <img src="https://github.com/AnujPathekar/Images/blob/main/Screenshot%202025-05-21%20224353.png" alt="Banner Image" width="1000" height="250" />
+  <a href="mailto:anujnishapathekar@gmail.com">📧 Email</a> • 
+  <a href="https://www.linkedin.com/in/anujnishapathekar/">🔗 LinkedIn</a>
 </p>
 
 ---
 
-### Skills & Expertise
+## ⚡ Snapshot
 
-**Core Data Science Skills**  
-Python · SQL · Data Analysis · Machine Learning · Model Evaluation · Data Visualization · Statistical Inference · A/B Testing
-
-**Generative AI & LLMs**  
-Prompt Engineering · OpenAI & Anthropic APIs · LangChain · RAG (Retrieval-Augmented Generation) · LLM Orchestration · Embeddings & Vector Stores (FAISS, Pinecone)  
-Fine-tuning & Instruction Tuning · Transformers (Hugging Face) · Text-to-Image/Code/SQL Generation · Chain-of-Thought Reasoning · Hallucination Mitigation
-
-**Tools & Technologies**  
-Pandas · NumPy · scikit-learn · Seaborn · TensorFlow · PyTorch · Git · GitHub · Azure DevOps · Jenkins · Microsoft Power Platform · Hive · Cassandra · Linux · VS Code
-
-**Cloud & Ops**  
-Azure ML Studio · Streamlit · Docker · REST APIs · GitHub Actions · Power Automate · Open Source License Auditing · CI/CD Integration
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20ML%20Systems-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current%20Role-AppSec%20Consultant-success?style=for-the-badge" />
+</p>
 
 ---
 
-### What I'm Currently Exploring
+## 📊 KPI Dashboard
 
-- 🌍 Generative AI frameworks and scalable LLM apps using LangChain and Streamlit  
-- 🛠️ Automating ISO 5230 assessments with Power Automate + SharePoint  
-- 📜 Building awareness around SBOMs and software compliance in the AI era  
-- 🧪 Evaluating the impact of hallucinations in multi-step LLM reasoning chains
-
----
-
-### Work Highlights
-
-- Led open source license and compliance assessments across global codebases  
-- Developed a shrinkage prediction model using machine learning techniques  
-- Created automated flows that reduced manual compliance effort by 60%  
-- Collaborated cross-functionally with legal, engineering, and security teams  
-- Contributed to an enterprise-ready maturity assessment framework
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects_Built-6%2B-0A66C2?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Automation_Impact-60%25-28a745?style=for-the-badge&logo=powerautomate" />
+  <img src="https://img.shields.io/badge/Tech_Stack-15%2B-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Projects-3%2B-purple?style=for-the-badge" />
+</p>
 
 ---
 
-### Let's Connect
+## 🧠 About Me
 
-- 📧 anujnishapathekar@gmail.com | anujpathekar@hotmail.com  
-- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/anujnishapathekar/)
+* Data Scientist with **2+ years experience**
+* Currently working as **Application Security Consultant**
+* Strong focus on **AI systems, automation, and real-world deployment**
+
+I don’t just build models — I build **end-to-end systems that work in production**.
 
 ---
 
-_Thanks for visiting — let’s build something meaningful together._
+## 🚀 What I Do
 
+✔ Build ML pipelines from scratch
+✔ Develop LLM apps (RAG, Agents, APIs)
+✔ Automate workflows using AI + APIs
+✔ Solve business problems with data
+
+---
+
+## 🛠️ Tech Stack
+
+**Core**
+`Python` `SQL` `Machine Learning` `Statistics`
+
+**GenAI**
+`LLMs` `LangChain` `RAG` `Prompt Engineering` `Embeddings`
+
+**Tools**
+`Pandas` `NumPy` `scikit-learn` `PyTorch` `FastAPI` `Docker`
+
+**Systems**
+`Azure` `CI/CD` `REST APIs` `Automation`
+
+---
+
+## 💼 Experience
+
+**Application Security Consultant — Source Code Control**
+
+* Led enterprise-scale open-source compliance analysis
+* Reduced manual effort by **60% via automation systems**
+* Worked with cross-functional teams (engineering, legal, security)
+
+---
+
+## 🧩 Featured Projects
+
+### 🤖 AI Wardrobe (GenAI Project)
+
+> LLM-powered outfit recommendation system using user wardrobe data
+
+### 🎬 Movie Recommendation System
+
+> Personalized recommendation engine using ML techniques
+
+### 🧪 Data QA Chatbot
+
+> Ask questions directly on datasets using LLMs
+
+### 📊 Power BI Dashboard
+
+> Business insights dashboard with automated pipelines
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnujPathekar&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujPathekar&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🎯 Currently Exploring
+
+* Agentic AI systems
+* LLM reliability & hallucination reduction
+* Scalable GenAI architectures
+
+---
+
+## 💡 Why Hire Me
+
+* I build **production-ready AI systems**, not just notebooks
+* Strong mix of **AI + engineering + real-world experience**
+* Focused on **impact, scalability, and automation**
+
+---
+
+<p align="center">
+  <b>🚀 Open to Data Science / AI / GenAI Opportunities</b><br>
+  Let’s build something impactful
+</p>
