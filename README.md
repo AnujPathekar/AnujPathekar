@@ -15,9 +15,9 @@
 ## ⚡ Snapshot
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20ML%20Systems-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Current%20Role-AppSec%20Consultant-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-1e293b?style=flat-square&logo=clock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-GEN%20AI%20%7C%20LLM%20%7C%20Agentic%20AI-1e293b?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current%20Role-Consultant-1e293b?style=flat-square&logo=briefcase&logoColor=white" />
 </p>
 
 ---
@@ -25,10 +25,10 @@
 ## 📊 KPI Dashboard
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects_Built-6%2B-0A66C2?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Automation_Impact-60%25-28a745?style=for-the-badge&logo=powerautomate" />
-  <img src="https://img.shields.io/badge/Tech_Stack-15%2B-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_Projects-3%2B-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects_Built-6%2B-334155?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation_Impact-60%25-334155?style=flat-square&logo=powerautomate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tech_Stack-15%2B-334155?style=flat-square&logo=stackshare&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Projects-3%2B-334155?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ---
