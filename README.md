@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <b>Data Scientist · ML Engineer · Generative AI Builder</b><br>
   <i>Building production-ready AI systems that solve real-world problems</i>
 </p>
 
