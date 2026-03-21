@@ -35,11 +35,11 @@
 
 ## 🧠 About Me
 
-* Data Scientist with **2+ years experience**
-* Currently working as **Application Security Consultant**
-* Strong focus on **AI systems, automation, and real-world deployment**
+* Data Scientist with **2.5+ years experience**
+* Currently working as **Consultant**
+* Strong focus on **AI systems, Automation, and Real-World Deployment**
 
-I don’t just build models — I build **end-to-end systems that work in production**.
+I don’t just build models — I build **End-to-End systems that work in production**.
 
 ---
 
@@ -70,7 +70,7 @@ I don’t just build models — I build **end-to-end systems that work in produc
 
 ## 💼 Experience
 
-**Application Security Consultant — Source Code Control**
+**Consultant — Source Code Control**
 
 * Led enterprise-scale open-source compliance analysis
 * Reduced manual effort by **60% via automation systems**
