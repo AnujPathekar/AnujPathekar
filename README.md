@@ -1,9 +1,4 @@
 <h1 align="center">Anuj Pathekar</h1>
-
-<p align="center">
-  <img src="https://github.com/AnujPathekar/Images/blob/main/Animate_this_image_202508271637.gif" width="160" height="160" />
-</p>
-
 <p align="center">
   <i>Building production-ready AI systems that solve real-world problems</i>
 </p>
