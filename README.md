@@ -1,6 +1,7 @@
 <h1 align="center">Anuj Pathekar</h1>
+
 <p align="center">
-  <i>Building production-ready AI systems that solve real-world problems</i>
+  <b>AI Engineer | Building LLM-powered automation systems that reduce manual work by 60%</b>
 </p>
 
 <p align="center">
@@ -10,59 +11,49 @@
 
 ---
 
-## ⚡ Snapshot
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-6366f1?style=for-the-badge&logo=clock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-GEN%20AI%20%7C%20LLM%20%7C%20Agentic%20AI-0ea5e9?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Current%20Role-Consultant-10b981?style=for-the-badge&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-6366f1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20LLM-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Impact-60%25%20Automation-22c55e?style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 KPI Dashboard
+## ⚡ About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Projects_Built-6%2B-8b5cf6?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation_Impact-60%25-22c55e?style=for-the-badge&logo=powerautomate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tech_Stack-15%2B-f59e0b?style=for-the-badge&logo=stackshare&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM_Projects-3%2B-ec4899?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+I build **production-ready AI systems** that automate real business workflows — not just models.
 
 ---
 
-## 🧠 About Me
+## 🚀 Featured Projects
 
-* Data Scientist with **2.5+ years experience**
-* Currently working as **Consultant**
-* Strong focus on **AI systems, Automation, and Real-World Deployment**
-
-I don’t just build models — I build **End-to-End systems that work in production**.
-
----
-
-## 🚀 What I Do
-
-✔ Build ML pipelines from scratch
-✔ Develop LLM apps (RAG, Agents, APIs)
-✔ Automate workflows using AI + APIs
-✔ Solve business problems with data
+### 🤖 AI Wardrobe (GenAI)
+→ Built LLM-based outfit recommendation system using embeddings + user wardrobe data  
+→ Suggests daily outfits & special occasion styling  
+→ Designed scalable backend using FastAPI  
+→ Focus: Real-world personalization + AI-driven recommendations  
 
 ---
 
-## 🛠️ Tech Stack
+### 🧪 Data QA Chatbot
+→ Built LLM-powered chatbot to query datasets in natural language  
+→ Enables non-technical users to extract insights instantly  
+→ Implemented using RAG + vector embeddings  
+→ Focus: Business data accessibility  
 
-**Core**
-`Python` `SQL` `Machine Learning` `Statistics`
+---
 
-**GenAI**
-`LLMs` `LangChain` `RAG` `Prompt Engineering` `Embeddings`
+### 🎬 Movie Recommendation System
+→ Developed personalized recommendation engine using ML algorithms  
+→ Improved recommendation relevance using user behavior patterns  
+→ Focus: User personalization  
 
-**Tools**
-`Pandas` `NumPy` `scikit-learn` `PyTorch` `FastAPI` `Docker`
+---
 
-**Systems**
-`Azure` `CI/CD` `REST APIs` `Automation`
+### 📊 Power BI Dashboard
+→ Built automated data pipeline + dashboard for business insights  
+→ Reduced manual reporting effort and improved decision-making speed  
+→ Focus: Business intelligence automation  
 
 ---
 
@@ -70,54 +61,21 @@ I don’t just build models — I build **End-to-End systems that work in produc
 
 **Consultant — Source Code Control**
 
-* Led enterprise-scale open-source compliance analysis
-* Reduced manual effort by **60% via automation systems**
-* Worked with cross-functional teams (engineering, legal, security)
+→ Built automation system reducing manual compliance effort by **60%**  
+→ Integrated workflows across engineering, legal, and security teams  
+→ Delivered scalable solutions for enterprise-level processes  
 
 ---
 
-## 🧩 Featured Projects
+## 🛠️ Tech Stack
 
-### 🤖 AI Wardrobe (GenAI Project)
-
-> LLM-powered outfit recommendation system using user wardrobe data
-
-### 🎬 Movie Recommendation System
-
-> Personalized recommendation engine using ML techniques
-
-### 🧪 Data QA Chatbot
-
-> Ask questions directly on datasets using LLMs
-
-### 📊 Power BI Dashboard
-
-> Business insights dashboard with automated pipelines
+`Python` | `SQL` | `Machine Learning` | `LLMs` | `LangChain` | `RAG` | `FastAPI` | `Docker` | `Azure`
 
 ---
 
-## 📈 GitHub Analytics
+## 🎯 Exploring
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnujPathekar&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujPathekar&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🎯 Currently Exploring
-
-* Agentic AI systems
-* LLM reliability & hallucination reduction
-* Scalable GenAI architectures
-
----
-
-## 💡 Why Hire Me
-
-* I build **production-ready AI systems**, not just notebooks
-* Strong mix of **AI + engineering + real-world experience**
-* Focused on **impact, scalability, and automation**
+Agentic AI | LLM Reliability | Scalable GenAI Systems
 
 ---
 
